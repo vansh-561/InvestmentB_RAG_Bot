@@ -40,6 +40,10 @@ PINECONE_NAMESPACE=investment-banking
 2. Wait for the documents to be processed
 3. Ask questions about the content of your documents
 
+![Screenshot (91)](https://github.com/user-attachments/assets/acdd7ea2-db4c-4204-9a43-c200eac0a99f)
+![Screenshot (92)](https://github.com/user-attachments/assets/b986e570-bbea-4f09-a9f6-05fe0f5d63fc)
+
+
 ## License
 
 MIT
